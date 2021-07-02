@@ -42,7 +42,7 @@ will puts `"Hello World!"`
 Add an instance method `#walk` to your `Person` class in `lib/person.rb` that
 will puts `"The Person is walking"`.
 
-When you're done, submit the lab with `learn submit`.
+When you're done, submit the lab with `learn test`.
 
 ## Conclusion
 
